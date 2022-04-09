@@ -1,129 +1,65 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Joe Bloggs - Curriculum Vitae</title>
+Mr Alexander Moles
+Location: Canterbury, Kent
+Mobile Number: 07999328870
+Email: Alexandermoles97@outlook.com
 
-<meta name="viewport" content="width=device-width"/>
-<meta name="description" content="The Curriculum Vitae of Joe Bloggs."/>
-<meta charset="UTF-8"> 
+Personal Statement / Interests 
+I am a 25-year-old mature student currently attending Canterbury Christ Church University (CCCU) to study software engineering. I have a passion for technology and am always looking to further my knowledge within this field. The programming languages such as C# and python are what I am currently practicing and learning at university. I am effective within a team but can be equally effective working alone, ensuring that all targets are met and completed in a timely organised manner. I enjoy setting new goals and targets both in and out of the workplace so that I can develop myself and expand my knowledge. In my free time I enjoy exploring the outdoors or relaxing with family, exercising via gym and am currently a member of the CCCU running club. Furthermore, I enjoy learning new skills by enrolling on online courses, listening to books on audible and playing video games.
+Qualifications/Education
+•	GCSE in English - C 
+•	GCSE in Maths - C                                            
+•	GCSE in French - A*
+•	BTEC in Public services - PASS
+•	BTEC in Sport - PASS
+•	ICT - PASS
+•	Science – PASS
+•	Level 3 Psychology – Overall Distinction (2020-2021)
+•	Level 3 Sociology – Overall Distinction (2020-2021)
+•	Level 3 Biology – Overall Distinction (2020-2021)
+Work Experience
+•	Liquids Manufacturer: COTY INC/ The Adecco Group - (Jan-August 2020).
+Dates: October 2018 – August 2020.
+Information: 
+I was a liquids manufacturer at Coty based in Ashford, Kent and my job role included being responsible for managing the machines I worked on as well as the recording of information collected while running said machines. This data recorded comprised of temperatures, speeds, pressure in the vessels, dates and times which were put onto the system along with the materials and chemicals used. This needed to be correct and accurate so that the machines ran safely, and no faulty products were made. As well as keeping the machines running in a timely manner and collecting data on them, I had to make sure I was following the correct protocols, wearing the correct PPE. The way I ensured the processes ran smoothly was by always making sure I follow the documents I printed before starting every shift, making sure that they are kept in the correct folder for other staff to view. Lastly, I made sure I printed the correct labels and filled out the spread sheets to a high standard of accuracy.
 
-<link type="text/css" rel="stylesheet" href="style.css">
-<link href='http://fonts.googleapis.com/css?family=Rokkitt:400,700|Lato:400,300' rel='stylesheet' type='text/css'>
+•	Cleaner: KDC Cleaning.
+Dates: May 2018-September 2018
+Information: 
+I was a cleaner at a local surgery in Woodchurch, Kent where I cleaned rooms, offices, and toilets. I also made sure all cleaning related stock was up to date and ready for use. After every room was cleaned, I would set the alarm and lock the surgery as I was a key holder.
 
-</head>
-<body id="top">
-<div id="cv" class="instaFade">
-	<div class="mainDetails">
-		<div id="headshot" class="quickFade">
-			<img src="headshot.jpg" alt="Alan Smith" />
-		</div>
-		
-		<div id="name">
-			<h1 class="quickFade delayTwo">Joe Bloggs</h1>
-			<h2 class="quickFade delayThree">Job Title</h2>
-		</div>
-		
-		<div id="contactDetails" class="quickFade delayFour">
-			<ul>
-				<li>e: <a href="mailto:joe@bloggs.com" target="_blank">joe@bloggs.com</a></li>
-				<li>w: <a href="http://www.bloggs.com">www.bloggs.com</a></li>
-				<li>m: 01234567890</li>
-			</ul>
-		</div>
-		<div class="clear"></div>
-	</div>
-	
-	<div id="mainArea" class="quickFade delayFive">
-		<section>
-			<article>
-				<div class="sectionTitle">
-					<h1>Personal Profile</h1>
-				</div>
-				
-				<div class="sectionContent">
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer dolor metus, interdum at scelerisque in, porta at lacus. Maecenas dapibus luctus cursus. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</div>
-			</article>
-			<div class="clear"></div>
-		</section>
-		
-		
-		<section>
-			<div class="sectionTitle">
-				<h1>Work Experience</h1>
-			</div>
-			
-			<div class="sectionContent">
-				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">April 2011 - Present</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</article>
-				
-				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">Janruary 2007 - March 2011</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</article>
-				
-				<article>
-					<h2>Job Title at Company</h2>
-					<p class="subDetails">October 2004 - December 2006</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim. Vestibulum bibendum mattis dignissim. Proin id sapien quis libero interdum porttitor.</p>
-				</article>
-			</div>
-			<div class="clear"></div>
-		</section>
-		
-		
-		<section>
-			<div class="sectionTitle">
-				<h1>Key Skills</h1>
-			</div>
-			
-			<div class="sectionContent">
-				<ul class="keySkills">
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-					<li>A Key Skill</li>
-				</ul>
-			</div>
-			<div class="clear"></div>
-		</section>
-		
-		
-		<section>
-			<div class="sectionTitle">
-				<h1>Education</h1>
-			</div>
-			
-			<div class="sectionContent">
-				<article>
-					<h2>College/University</h2>
-					<p class="subDetails">Qualification</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
-				</article>
-				
-				<article>
-					<h2>College/University</h2>
-					<p class="subDetails">Qualification</p>
-					<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Donec ultricies massa et erat luctus hendrerit. Curabitur non consequat enim.</p>
-				</article>
-			</div>
-			<div class="clear"></div>
-		</section>
-	</div>
-</div>
-</body>
-</html>
+•	Infantry soldier: British army.
+Rank: Private (PTE).
+Dates: January 2017- February 2018.
+Information:
+I was a soldier in the Princess of Wales Royal Regiment (PWRR) 2nd battalion which is an infantry regiment. I completed basic training in Catterick (school of infantry) and was posted to my battalion which was based at Kendrew barracks in Cottesmore in August 2017. However, I was discharged due to health reasons in February 2018.
 
-git add --all
- 
-git commit -m "Initial commit"
- 
-git push -u origin master
+•	General assistant: Ham Street Wyevale Garden centre, Ashford.
+Dates: May 2013- November 2016.
+Information: 
+I was a store general assistant in which my duties included the maintenance of the plant life, customer service, restocking the shelves, booking in delivered stock, pricing up products, operating the checkout, load compost, firewood or gas into customers vehicles and building displays.
+Summary of Skills 
+•	Communication 
+•	Analytical skills 
+•	Critical thinking
+•	Problem solving
+•	Time management
+•	Recording information 
+•	Resilience
+•	Determination
+•	Teamwork
+•	Adaptability
+•	Professionalism 
+Awards acquired
+•	Best recruit award
+Date: July 2017.
+Information: 
+I was awarded the best recruit cup for passing out of a 7-month infantry training course at Catterick in which I was deemed the best all round recruit out of 25 recruits left.
+•	Commandants cup award
+Date: July 2017
+Information: 
+Commandants cup winner (march and shoot) was awarded to me and 6 other recruits in my section after completing a sequence of arduous tasks one after the other. This consisted of a 4-mile tab,2-mile best effort, assault course, 30 rounds from various positions down range and a stretcher race. Out of 8 sections made up of 7-8 recruits per section my section won with the best time and score of the day. 
+References
+•	Can produce refences upon request.
+
+
+
